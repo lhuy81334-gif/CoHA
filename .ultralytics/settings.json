@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\Admin\\OneDrive\\Pictures\\datatest\\Do_An_Nguyen_Xuan_Quyet\\yolov8\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "7aca3e40b6f5a90ee8e58f265af32ec56528553835f50e218e099dc22fa4b5e8",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
